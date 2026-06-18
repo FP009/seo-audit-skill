@@ -7,7 +7,7 @@ Kompleksowy audyt SEO strony według **100-punktowej checklisty** podzielonej na
 ```bash
 mkdir -p ~/.claude/skills/seo-audit
 curl -o ~/.claude/skills/seo-audit/SKILL.md \
-  https://raw.githubusercontent.com/YOUR_USERNAME/seo-audit-skill/main/SKILL.md
+  https://raw.githubusercontent.com/FP009/seo-audit-skill/main/SKILL.md
 ```
 
 Następnie dodaj do `~/.claude/CLAUDE.md`:
